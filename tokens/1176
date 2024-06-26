@@ -1,0 +1,21 @@
+{
+    "id": 1176,
+    "image": "https://fingereyesdev.github.io/EternalHearts-NFT/tokens/EH_Pet_Box.webp",
+    "token_id": 1176,
+    "background_color": null,
+    "animation_url": null,
+    "youtube_url": null,
+    "name": "Pet Box",
+    "description": "This NFT is random pet box",
+    "external_url": null,
+    "attributes": [
+        {
+            "trait_type": "Parts",
+            "value": "Box"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "S"
+        }
+    ]
+}

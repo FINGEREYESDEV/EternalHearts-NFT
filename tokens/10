@@ -1,0 +1,21 @@
+{
+    "id": 10,
+    "image": "https://fingereyesdev.github.io/EternalHearts-NFT/tokens/EH_Pet_S_01.webp",
+    "token_id": 10,
+    "background_color": null,
+    "animation_url": null,
+    "youtube_url": null,
+    "name": "Special Pet",
+    "description": "This NFT is Special Pet 01",
+    "external_url": null,
+    "attributes": [
+        {
+            "trait_type": "Parts",
+            "value": "Pet"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "S"
+        }
+    ]
+}
