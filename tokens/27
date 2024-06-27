@@ -1,0 +1,33 @@
+{
+    "id": 27,
+    "image": "https://fingereyesdev.github.io/EternalHearts-NFT/tokens/EH_Pet_S_03.webp",
+    "token_id": 27,
+    "background_color": null,
+    "animation_url": null,
+    "youtube_url": null,
+    "name": "PurBefly Pet",
+    "description": "This NFT is PurBefly pet",
+    "external_url": null,
+    "attributes": [
+        {
+            "trait_type": "Parts",
+            "value": "Pet"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Legend"
+        },
+        {
+            "trait_type": "pet_uid",
+            "value": 1103
+        },
+        {
+            "trait_type": "name",
+            "value": "PurBefly"
+        },
+        {
+            "trait_type": "buff",
+            "value": "MaxHP"
+        }
+    ]
+}

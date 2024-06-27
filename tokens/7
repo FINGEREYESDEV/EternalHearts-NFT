@@ -1,0 +1,33 @@
+{
+    "id": 7,
+    "image": "https://fingereyesdev.github.io/EternalHearts-NFT/tokens/EH_Pet_S_01.webp",
+    "token_id": 7,
+    "background_color": null,
+    "animation_url": null,
+    "youtube_url": null,
+    "name": "Moonshuhring Pet",
+    "description": "This NFT is Moonshuhring pet",
+    "external_url": null,
+    "attributes": [
+        {
+            "trait_type": "Parts",
+            "value": "Pet"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Legend"
+        },
+        {
+            "trait_type": "pet_uid",
+            "value": 1102
+        },
+        {
+            "trait_type": "name",
+            "value": "MoonShuhring"
+        },
+        {
+            "trait_type": "buff",
+            "value": "Def"
+        }
+    ]
+}

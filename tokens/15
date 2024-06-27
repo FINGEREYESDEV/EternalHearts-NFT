@@ -1,0 +1,33 @@
+{
+    "id": 15,
+    "image": "https://fingereyesdev.github.io/EternalHearts-NFT/tokens/EH_Pet_S_02.webp",
+    "token_id": 15,
+    "background_color": null,
+    "animation_url": null,
+    "youtube_url": null,
+    "name": "MingPeggy Pet",
+    "description": "This NFT is MingPeggy pet",
+    "external_url": null,
+    "attributes": [
+        {
+            "trait_type": "Parts",
+            "value": "Pet"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Legend"
+        },
+        {
+            "trait_type": "pet_uid",
+            "value": 1101
+        },
+        {
+            "trait_type": "name",
+            "value": "MingPeggy"
+        },
+        {
+            "trait_type": "buff",
+            "value": "Atk"
+        }
+    ]
+}
