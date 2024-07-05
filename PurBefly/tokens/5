@@ -1,6 +1,6 @@
 {
     "id": 5,
-    "image": "https://fingereyesdev.github.io/EternalHearts-NFT/PurBefly/tokens/EH_Pet_S_PurBefly.webp",
+    "image": "https://fingereyesdev.github.io/EternalHearts-NFT/tokens/EH_Pet_S_PurBefly.webp",
     "token_id": 5,
     "background_color": null,
     "animation_url": null,
@@ -26,8 +26,28 @@
             "value": "PurBefly"
         },
         {
-            "trait_type": "buff",
-            "value": "MaxHP"
+            "trait_type": "additional chance of mining",
+            "value": 30
+        },
+        {
+            "trait_type": "MaxMP",
+            "value": 330
+        },
+        {
+            "trait_type": "MPRecovery",
+            "value": 33
+        },
+        {
+            "trait_type": "HPRecovery",
+            "value": 0
+        },
+        {
+            "trait_type": "Level",
+            "value": 1
+        },
+        {
+            "trait_type": "Fullness",
+            "value": 800
         }
     ]
 }

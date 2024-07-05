@@ -1,6 +1,6 @@
 {
     "id": 10,
-    "image": "https://fingereyesdev.github.io/EternalHearts-NFT/MoonShuhring/tokens/EH_Pet_S_MoonShuhring.webp",
+    "image": "https://fingereyesdev.github.io/EternalHearts-NFT/tokens/EH_Pet_S_MoonShuhring.webp",
     "token_id": 10,
     "background_color": null,
     "animation_url": null,
@@ -26,8 +26,28 @@
             "value": "MoonShuhring"
         },
         {
-            "trait_type": "buff",
-            "value": "Def"
+            "trait_type": "additional chance of mining",
+            "value": 30
+        },
+        {
+            "trait_type": "Def",
+            "value": 132
+        },
+        {
+            "trait_type": "MaxHP",
+            "value": 330
+        },
+        {
+            "trait_type": "Avoid",
+            "value": 0
+        },
+        {
+            "trait_type": "Level",
+            "value": 1
+        },
+        {
+            "trait_type": "Fullness",
+            "value": 800
         }
     ]
 }
