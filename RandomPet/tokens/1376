@@ -1,0 +1,46 @@
+{
+    "id": 1376,
+    "image": "https://fingereyesdev.github.io/EternalHearts-NFT/RandomPet/tokens/EH_Pet_1007_Ghostpanda.webp",
+    "token_id": 1376,
+    "name": "Ghostpanda Pet",
+    "description": "Heroic Ghostpanda pet",
+    "external_url": "https://www.fingereyes.com/eternalhearts",
+    "attributes": [
+        {
+            "trait_type": "Parts",
+            "value": "Pet"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Heroic"
+        },
+        {
+            "trait_type": "pet_uid",
+            "value": 1007
+        },
+        {
+            "trait_type": "name",
+            "value": "Ghostpanda"
+        },
+        {
+            "trait_type": "additional chance of mining",
+            "value": 15
+        },
+        {
+            "trait_type": "Atk",
+            "value": 137
+        },
+        {
+            "trait_type": "CriticalProb",
+            "value": 1.38
+        },
+        {
+            "trait_type": "Level",
+            "value": 1
+        },
+        {
+            "trait_type": "Fullness",
+            "value": 2500
+        }
+    ]
+}

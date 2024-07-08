@@ -1,0 +1,42 @@
+{
+    "id": 57,
+    "image": "https://fingereyesdev.github.io/EternalHearts-NFT/RandomPet/tokens/EH_Pet_1003_Raerae.webp",
+    "token_id": 57,
+    "name": "Raerae Pet",
+    "description": "High Raerae pet",
+    "external_url": "https://www.fingereyes.com/eternalhearts",
+    "attributes": [
+        {
+            "trait_type": "Parts",
+            "value": "Pet"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "High"
+        },
+        {
+            "trait_type": "pet_uid",
+            "value": 1003
+        },
+        {
+            "trait_type": "name",
+            "value": "Raerae"
+        },
+        {
+            "trait_type": "additional chance of mining",
+            "value": 5
+        },
+        {
+            "trait_type": "Atk",
+            "value": 46
+        },
+        {
+            "trait_type": "Level",
+            "value": 1
+        },
+        {
+            "trait_type": "Fullness",
+            "value": 1500
+        }
+    ]
+}

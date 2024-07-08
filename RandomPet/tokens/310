@@ -1,0 +1,42 @@
+{
+    "id": 310,
+    "image": "https://fingereyesdev.github.io/EternalHearts-NFT/RandomPet/tokens/EH_Pet_1008_Beoss.webp",
+    "token_id": 310,
+    "name": "Beoss Pet",
+    "description": "High Beoss pet",
+    "external_url": "https://www.fingereyes.com/eternalhearts",
+    "attributes": [
+        {
+            "trait_type": "Parts",
+            "value": "Pet"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "High"
+        },
+        {
+            "trait_type": "pet_uid",
+            "value": 1008
+        },
+        {
+            "trait_type": "name",
+            "value": "Beoss"
+        },
+        {
+            "trait_type": "additional chance of mining",
+            "value": 5
+        },
+        {
+            "trait_type": "HPRecovery",
+            "value": 5.61
+        },
+        {
+            "trait_type": "Level",
+            "value": 1
+        },
+        {
+            "trait_type": "Fullness",
+            "value": 1500
+        }
+    ]
+}

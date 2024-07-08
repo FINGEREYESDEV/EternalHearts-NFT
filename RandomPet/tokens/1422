@@ -1,0 +1,46 @@
+{
+    "id": 1422,
+    "image": "https://fingereyesdev.github.io/EternalHearts-NFT/RandomPet/tokens/EH_Pet_1010_Whicon.webp",
+    "token_id": 1422,
+    "name": "Whicon Pet",
+    "description": "Heroic Whicon pet",
+    "external_url": "https://www.fingereyes.com/eternalhearts",
+    "attributes": [
+        {
+            "trait_type": "Parts",
+            "value": "Pet"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Heroic"
+        },
+        {
+            "trait_type": "pet_uid",
+            "value": 1010
+        },
+        {
+            "trait_type": "name",
+            "value": "Whicon"
+        },
+        {
+            "trait_type": "additional chance of mining",
+            "value": 15
+        },
+        {
+            "trait_type": "Def",
+            "value": 66
+        },
+        {
+            "trait_type": "MaxHP",
+            "value": 165
+        },
+        {
+            "trait_type": "Level",
+            "value": 1
+        },
+        {
+            "trait_type": "Fullness",
+            "value": 2500
+        }
+    ]
+}

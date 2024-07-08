@@ -1,0 +1,46 @@
+{
+    "id": 988,
+    "image": "https://fingereyesdev.github.io/EternalHearts-NFT/RandomPet/tokens/EH_Pet_1012_Popuding.webp",
+    "token_id": 988,
+    "name": "Popuding Pet",
+    "description": "Rare Popuding pet",
+    "external_url": "https://www.fingereyes.com/eternalhearts",
+    "attributes": [
+        {
+            "trait_type": "Parts",
+            "value": "Pet"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Rare"
+        },
+        {
+            "trait_type": "pet_uid",
+            "value": 1012
+        },
+        {
+            "trait_type": "name",
+            "value": "Popuding"
+        },
+        {
+            "trait_type": "additional chance of mining",
+            "value": 10
+        },
+        {
+            "trait_type": "MaxHP",
+            "value": 108
+        },
+        {
+            "trait_type": "HPRecovery",
+            "value": 10.89
+        },
+        {
+            "trait_type": "Level",
+            "value": 1
+        },
+        {
+            "trait_type": "Fullness",
+            "value": 2000
+        }
+    ]
+}

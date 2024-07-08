@@ -1,0 +1,46 @@
+{
+    "id": 1452,
+    "image": "https://fingereyesdev.github.io/EternalHearts-NFT/RandomPet/tokens/EH_Pet_1011_Redring.webp",
+    "token_id": 1452,
+    "name": "Redring Pet",
+    "description": "Heroic Redring pet",
+    "external_url": "https://www.fingereyes.com/eternalhearts",
+    "attributes": [
+        {
+            "trait_type": "Parts",
+            "value": "Pet"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Heroic"
+        },
+        {
+            "trait_type": "pet_uid",
+            "value": 1011
+        },
+        {
+            "trait_type": "name",
+            "value": "Redring"
+        },
+        {
+            "trait_type": "additional chance of mining",
+            "value": 15
+        },
+        {
+            "trait_type": "MPRecovery",
+            "value": 16.5
+        },
+        {
+            "trait_type": "MaxHP",
+            "value": 165
+        },
+        {
+            "trait_type": "Level",
+            "value": 1
+        },
+        {
+            "trait_type": "Fullness",
+            "value": 2500
+        }
+    ]
+}

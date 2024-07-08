@@ -1,0 +1,46 @@
+{
+    "id": 1360,
+    "image": "https://fingereyesdev.github.io/EternalHearts-NFT/RandomPet/tokens/EH_Pet_1002_Creamhead.webp",
+    "token_id": 1360,
+    "name": "Creamhead Pet",
+    "description": "Rare Creamhead pet",
+    "external_url": "https://www.fingereyes.com/eternalhearts",
+    "attributes": [
+        {
+            "trait_type": "Parts",
+            "value": "Pet"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Rare"
+        },
+        {
+            "trait_type": "pet_uid",
+            "value": 1002
+        },
+        {
+            "trait_type": "name",
+            "value": "Creamhead"
+        },
+        {
+            "trait_type": "additional chance of mining",
+            "value": 10
+        },
+        {
+            "trait_type": "MaxHP",
+            "value": 110
+        },
+        {
+            "trait_type": "Avoid",
+            "value": 104
+        },
+        {
+            "trait_type": "Level",
+            "value": 1
+        },
+        {
+            "trait_type": "Fullness",
+            "value": 2000
+        }
+    ]
+}

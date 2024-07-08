@@ -1,0 +1,50 @@
+{
+    "id": 1466,
+    "image": "https://fingereyesdev.github.io/EternalHearts-NFT/RandomPet/tokens/EH_Pet_S_MoonShuhring.webp",
+    "token_id": 1466,
+    "name": "MoonShuhring Pet",
+    "description": "Legend MoonShuhring pet",
+    "external_url": "https://www.fingereyes.com/eternalhearts",
+    "attributes": [
+        {
+            "trait_type": "Parts",
+            "value": "Pet"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Legend"
+        },
+        {
+            "trait_type": "pet_uid",
+            "value": 1102
+        },
+        {
+            "trait_type": "name",
+            "value": "MoonShuhring"
+        },
+        {
+            "trait_type": "additional chance of mining",
+            "value": 30
+        },
+        {
+            "trait_type": "Def",
+            "value": 132
+        },
+        {
+            "trait_type": "MaxHP",
+            "value": 330
+        },
+        {
+            "trait_type": "Avoid",
+            "value": 0
+        },
+        {
+            "trait_type": "Level",
+            "value": 1
+        },
+        {
+            "trait_type": "Fullness",
+            "value": 3000
+        }
+    ]
+}

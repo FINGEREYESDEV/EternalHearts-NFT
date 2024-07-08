@@ -1,0 +1,42 @@
+{
+    "id": 687,
+    "image": "https://fingereyesdev.github.io/EternalHearts-NFT/RandomPet/tokens/EH_Pet_1009_Bofish.webp",
+    "token_id": 687,
+    "name": "Bofish Pet",
+    "description": "High Bofish pet",
+    "external_url": "https://www.fingereyes.com/eternalhearts",
+    "attributes": [
+        {
+            "trait_type": "Parts",
+            "value": "Pet"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "High"
+        },
+        {
+            "trait_type": "pet_uid",
+            "value": 1009
+        },
+        {
+            "trait_type": "name",
+            "value": "Bofish"
+        },
+        {
+            "trait_type": "additional chance of mining",
+            "value": 5
+        },
+        {
+            "trait_type": "Def",
+            "value": 22
+        },
+        {
+            "trait_type": "Level",
+            "value": 1
+        },
+        {
+            "trait_type": "Fullness",
+            "value": 1500
+        }
+    ]
+}

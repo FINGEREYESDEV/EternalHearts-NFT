@@ -1,0 +1,46 @@
+{
+    "id": 1156,
+    "image": "https://fingereyesdev.github.io/EternalHearts-NFT/RandomPet/tokens/EH_Pet_1001_Luring.webp",
+    "token_id": 1156,
+    "name": "Luring Pet",
+    "description": "Rare Luring pet",
+    "external_url": "https://www.fingereyes.com/eternalhearts",
+    "attributes": [
+        {
+            "trait_type": "Parts",
+            "value": "Pet"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Rare"
+        },
+        {
+            "trait_type": "pet_uid",
+            "value": 1001
+        },
+        {
+            "trait_type": "name",
+            "value": "Luring"
+        },
+        {
+            "trait_type": "additional chance of mining",
+            "value": 10
+        },
+        {
+            "trait_type": "Atk",
+            "value": 91
+        },
+        {
+            "trait_type": "Accuracy",
+            "value": 91
+        },
+        {
+            "trait_type": "Level",
+            "value": 1
+        },
+        {
+            "trait_type": "Fullness",
+            "value": 2000
+        }
+    ]
+}
